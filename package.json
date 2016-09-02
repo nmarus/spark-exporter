@@ -1,0 +1,15 @@
+{
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "lodash": "^4.15.0",
+    "moment": "^2.14.1",
+    "node-flint": "^4.0.0",
+    "socket2me-client": "^1.2.0",
+    "when": "^3.7.7"
+  },
+  "engines": {
+    "node": ">4.4.0"
+  }
+}
